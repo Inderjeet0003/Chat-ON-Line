@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Chat-ON-Line/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Chat-ON-Line/static/js/main.6001a2f5.chunk.js",
+    "main.js.map": "/Chat-ON-Line/static/js/main.6001a2f5.chunk.js.map",
+    "runtime-main.js": "/Chat-ON-Line/static/js/runtime-main.a8a3ad59.js",
+    "runtime-main.js.map": "/Chat-ON-Line/static/js/runtime-main.a8a3ad59.js.map",
+    "static/js/2.577633c9.chunk.js": "/Chat-ON-Line/static/js/2.577633c9.chunk.js",
+    "static/js/2.577633c9.chunk.js.map": "/Chat-ON-Line/static/js/2.577633c9.chunk.js.map",
+    "index.html": "/Chat-ON-Line/index.html",
+    "precache-manifest.f13285e2266e9af25b5424a922306c17.js": "/Chat-ON-Line/precache-manifest.f13285e2266e9af25b5424a922306c17.js",
+    "service-worker.js": "/Chat-ON-Line/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Chat-ON-Line/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.577633c9.chunk.js.LICENSE.txt": "/Chat-ON-Line/static/js/2.577633c9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Chat-ON-Line/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a3ad59.js",
+    "static/js/2.577633c9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6001a2f5.chunk.js"
+  ]
+}
